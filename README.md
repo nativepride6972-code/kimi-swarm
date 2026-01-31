@@ -39,3 +39,11 @@ Run tests:
 ```bash
 npm test
 ```
+
+## Credits
+
+Project scaffolded by `savage`.
+
+## Copyright
+
+Copyright (c) 2026 savage. All rights reserved.
