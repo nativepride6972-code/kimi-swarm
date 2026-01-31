@@ -47,3 +47,7 @@ Project scaffolded by `savage`.
 ## Copyright
 
 Copyright (c) 2026 savage. All rights reserved.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

@@ -11,6 +11,7 @@
     "clean": "rm -rf dist"
   },
   "author": "savage",
+  "license": "MIT",
   "devDependencies": {
     "typescript": "^5.2.0",
     "ts-node": "^10.9.1",
